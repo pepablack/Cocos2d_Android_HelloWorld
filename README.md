@@ -7,9 +7,8 @@ Lista de exercícios "Zero"
 - Criar o projeto HelloWorld.
 - Modificar o texto da mensagem "Hello World" para o "Hello World [nome do aluno]".
 - Modificar a imagem "HelloWorld.png" do fundo de tela para uma outra qualquer.
-- 
-Ambiente usado:
 
+Ambiente usado:
   - cocos2d-x-3.3beta0
   - apache-ant-1.9.4
   - android-ndk-r9d
